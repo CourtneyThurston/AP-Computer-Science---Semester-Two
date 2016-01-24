@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=movies
+comment0.target=void\ printMovies(java.util.ArrayList)
+comment1.params=movies\ direction
+comment1.target=void\ sortTitles(java.util.ArrayList,\ int)
+comment2.params=movies\ direction
+comment2.target=void\ sortStudios(java.util.ArrayList,\ int)
+comment3.params=movies\ direction
+comment3.target=void\ sortYears(java.util.ArrayList,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

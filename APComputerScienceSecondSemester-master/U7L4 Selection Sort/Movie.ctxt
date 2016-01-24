@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=title\ studio\ year
+comment0.target=Movie(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getStudio()
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=int\ getYear()
+comment4.params=value
+comment4.target=void\ setStudio(java.lang.String)
+comment5.params=value
+comment5.target=void\ setTitle(java.lang.String)
+comment6.params=value
+comment6.target=void\ setYear(int)
+comment7.params=movie
+comment7.target=void\ equals(Movie)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

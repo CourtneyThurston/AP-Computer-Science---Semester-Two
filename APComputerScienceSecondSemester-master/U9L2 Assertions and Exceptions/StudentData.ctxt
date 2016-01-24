@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=FN\ LN\ TS\ FG
+comment0.target=StudentData(java.lang.String,\ java.lang.String,\ double[],\ char)
+comment1.params=FN
+comment1.target=void\ setFN(java.lang.String)
+comment2.params=LN
+comment2.target=void\ setLN(java.lang.String)
+comment3.params=TS
+comment3.target=void\ setTS(double[])
+comment4.params=FG
+comment4.target=void\ setFG(char)
+comment5.params=
+comment5.target=java.lang.String\ getFN()
+comment6.params=
+comment6.target=java.lang.String\ getLN()
+comment7.params=
+comment7.target=java.lang.String\ getTS()
+comment8.params=
+comment8.target=char\ getFG()
+numComments=9

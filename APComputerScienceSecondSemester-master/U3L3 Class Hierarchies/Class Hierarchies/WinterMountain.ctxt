@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=l\ w\ mountains\ temp
+comment0.target=WinterMountain(double,\ double,\ int,\ double)
+comment1.params=
+comment1.target=void\ getTemperature()
+numComments=2

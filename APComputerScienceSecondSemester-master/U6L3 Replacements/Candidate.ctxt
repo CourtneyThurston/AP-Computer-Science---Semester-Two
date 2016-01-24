@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nv\ n
+comment0.target=Candidate(int,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getVotes()
+comment3.params=replace
+comment3.target=java.lang.String\ setName(java.lang.String)
+comment4.params=replace
+comment4.target=int\ setVote(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

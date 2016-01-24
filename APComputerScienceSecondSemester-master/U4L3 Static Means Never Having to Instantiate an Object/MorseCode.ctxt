@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=MorseCode(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String[]\ read()
+comment2.params=
+comment2.target=void\ Convert()
+comment3.params=
+comment3.target=java.lang.String\ getNewSentence()
+numComments=4

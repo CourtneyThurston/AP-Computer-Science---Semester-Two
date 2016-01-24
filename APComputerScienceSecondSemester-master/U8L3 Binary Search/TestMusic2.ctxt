@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=music
+comment0.target=void\ sortTitles(java.util.ArrayList)
+comment1.params=music
+comment1.target=void\ sortSingers(java.util.ArrayList)
+comment2.params=music
+comment2.target=void\ sortYears(java.util.ArrayList)
+comment3.params=myMusic2
+comment3.target=void\ printMusic2(java.util.ArrayList)
+comment4.params=music\ beginSearch
+comment4.target=boolean\ searchTitle(java.util.ArrayList,\ java.lang.String)
+comment5.params=music\ beginSearch
+comment5.target=java.lang.String\ searchYear(java.util.ArrayList,\ int)
+comment6.params=music\ beginSearch
+comment6.target=java.lang.String\ searchSinger(java.util.ArrayList,\ java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
