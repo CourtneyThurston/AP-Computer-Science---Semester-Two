@@ -1,6 +1,6 @@
 APComputerScienceSecondSemester
 ===============================
 
-My AP Computer Science work from Semester B. Students (Connections Academy or not)--feel free to contact me if you need assistance with your assignments; computer programming is really a collaborative process, no matter how it may be presented in school. 
+This code is for syntax & structure reference purposes only. Directly copying snippets of code from others, without proper citation and without advance permission of your instructor, will likely be considered an academic integrity violation by your school.
 
-I can be reached at courtney@magikstra.com
+If you need help understanding a concept, feel free to email me at thurscon@gmail.com
